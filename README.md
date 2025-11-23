@@ -1,7 +1,7 @@
 
 # Divine.Video Downloader
 
-A tiny script to download new DiVine.video videos.
+A tiny script to download new https://divine.video videos.
 
 
 <p align="center">
@@ -64,7 +64,6 @@ We welcome contributions! Here's how you can help:
  Create a new issue with:
     📝 Clear description
     🔄 Steps to reproduce
-    💻 System information
 
 ### 💡 Feature Request?
  Open a [discussion](https://github.com/sertrafurr/DiVine-Downloader/discussions)
